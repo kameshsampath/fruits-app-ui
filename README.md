@@ -1,6 +1,6 @@
 # Fruits UI
 
-The UI for the [fruits-app](https://github.com/kameshsampath/gloo-fruits-app). The UI is built using [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and [Chakra UI](https://chakra-ui.com).
+The UI for the [fruits-app](https://github.com/kameshsampath/go-fruits-api). The UI is built using [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and [Chakra UI](https://chakra-ui.com).
 
 ## Kubernetes Deployment
 
